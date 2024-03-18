@@ -1,0 +1,33 @@
+ 
+
+{
+    "getintouch": "Get in touch",
+    "contactOne": "Contact",
+    "emergency": {
+      "text": "Emergency",
+      "numbers": [
+        "681-812-255",
+        "(237) 666-331-894"
+      ]
+    },
+    "location": {
+      "text": "Location",
+      "addresses": [
+        "0123 Some place",
+        "9876 Some country"
+      ]
+    },
+    "email": {
+      "text": "Email",
+      "addresses": [
+        "fildineeesoe@gmil.com",
+        "myebstudios@gmail.com"
+      ]
+    },
+    "workinghours": {
+      "text": "Working Hours",
+      "hours": "Mon-Sat 09:00-20:00",
+      "emergencyHours": "Sunday Emergency only"
+    }
+  }
+  
